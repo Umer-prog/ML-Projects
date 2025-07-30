@@ -1,1 +1,18 @@
+# Ignore IDE/editor folders
 .idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
